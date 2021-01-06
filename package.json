@@ -10,7 +10,7 @@
     "author": "yoshi1125hisa",
     "license": "MIT",
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.0",
         "readline-sync": "^1.4.9",
         "request": "^2.88.0"
     }
